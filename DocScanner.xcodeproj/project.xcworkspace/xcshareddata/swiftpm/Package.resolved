@@ -1,0 +1,15 @@
+{
+  "originHash" : "759e99116b6cba34b922827c7ec0cc8cd41c4a6cf5f02e6ad4d40e59b34610ef",
+  "pins" : [
+    {
+      "identity" : "documentscannerview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/edonv/DocumentScannerView.git",
+      "state" : {
+        "revision" : "b278314869450c1ed92d90c5e1f32ddb93673b43",
+        "version" : "0.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
